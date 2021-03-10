@@ -37,9 +37,9 @@ In this tutorial, I created the very popular game 2048 in JavaScript, HTML and C
 
 If you did like this project, please do Like and [Follow](github.com/kemicodes) so I know to make others like this!
 
-I would love to see what you have made so please do share your finished games with me on Instagram! My handle is @kemicodes.
+A heartful thanks to [Ania kubow](https://github.com/kubowania) for inspiring me to create this game.
 
-Full video tutorial by Ania Kubow [here](https://youtu.be/aDn2g8XfSMc)
+I would love to see what you have made so please do share your finished games with me on Instagram! My handle is @kemicodes.
 
 ### MIT Licence
 
