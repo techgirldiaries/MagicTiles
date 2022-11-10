@@ -38,7 +38,7 @@ If you did like this project, please do Like and [Follow](github.com/kemicodes) 
 
 A heartful thanks to [Ania Kubow](https://github.com/kubowania) for inspiring me to create this game.
 
-I would love to see what you have made so please do share your finished games with me on Instagram! My handle is @kemicodes.
+I would love to see what you have made so please share your finished games with me on Twitter! My handle is @techgirldiaries.
 
 ### MIT Licence
 
