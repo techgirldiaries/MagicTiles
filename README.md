@@ -1,4 +1,4 @@
-# 2048
+# 2048 JavaScript Game
 
 A game of 2048 in vanilla JavaScript, HTML and CSS
 
