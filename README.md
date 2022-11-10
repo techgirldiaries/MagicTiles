@@ -1,8 +1,7 @@
 # 2048 JavaScript Game
 
-A game of 2048 in vanilla JavaScript, HTML and CSS
+2048, the very popular game in Vanilla JS, HTML and CSS.
 
-In this tutorial, I created the very popular game 2048 in JavaScript, HTML and CSS! No canvas required!
 
 ### Rules of 2048
 
