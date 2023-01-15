@@ -38,11 +38,11 @@ If you did like this project, please do Like and [Follow](github.com/kemicodes) 
 
 A heartful thanks to [Ania Kubow](https://github.com/kubowania) for inspiring me to create this game.
 
-I would love to see what you have made so please share your finished games with me on Twitter! My handle is @techgirldiaries.
+I would love to see what you have made so please share your finished games with me on Twitter! My handle is [@techgirldiaries](https://twitter.com/techgirldiaries).
 
 ### MIT Licence
 
-Copyright (c) 2020 Oluwakemi Toluwalase
+Copyright (c) 2024 Oluwakemi Toluwalase
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
